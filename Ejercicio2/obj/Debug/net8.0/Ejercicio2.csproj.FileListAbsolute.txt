@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.exe
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.deps.json
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.runtimeconfig.json
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.dll
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.pdb
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfo.cs
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.dll
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\obj\Debug\net8.0\refint\Ejercicio2.dll
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.pdb
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.genruntimeconfig.cache
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio2\Ejercicio2\obj\Debug\net8.0\ref\Ejercicio2.dll

@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.exe
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.deps.json
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.runtimeconfig.json
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.dll
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.pdb
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfo.cs
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.dll
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\obj\Debug\net8.0\refint\Ejercicio3.dll
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.pdb
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.genruntimeconfig.cache
+\\Mac\Home\Desktop\Ejercicios VS\Ejercicio3\Ejercicio3\obj\Debug\net8.0\ref\Ejercicio3.dll

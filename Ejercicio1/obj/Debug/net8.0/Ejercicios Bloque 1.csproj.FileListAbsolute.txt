@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\obj\Debug\net8.0\Ejercicios Bloque 1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\obj\Debug\net8.0\Ejercicios Bloque 1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\obj\Debug\net8.0\Ejercicios Bloque 1.AssemblyInfo.cs
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\obj\Debug\net8.0\Ejercicios Bloque 1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\bin\Debug\net8.0\Ejercicios Bloque 1.exe
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\bin\Debug\net8.0\Ejercicios Bloque 1.deps.json
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\bin\Debug\net8.0\Ejercicios Bloque 1.runtimeconfig.json
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\bin\Debug\net8.0\Ejercicios Bloque 1.dll
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\bin\Debug\net8.0\Ejercicios Bloque 1.pdb
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\obj\Debug\net8.0\Ejercicios Bloque 1.dll
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\obj\Debug\net8.0\refint\Ejercicios Bloque 1.dll
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\obj\Debug\net8.0\Ejercicios Bloque 1.pdb
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\obj\Debug\net8.0\Ejercicios Bloque 1.genruntimeconfig.cache
+\\Mac\Home\Desktop\Ejercicios VB\Ejercicios Bloque 1\obj\Debug\net8.0\ref\Ejercicios Bloque 1.dll
